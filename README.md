@@ -6,4 +6,4 @@ Migrating from DJBDNS/TinyDNS to another Server. This script parses your old Zon
   * dnspython
 
 ### Usage
-./check.py <data file> <new dnsserver ip>
+    ./check.py <data file> <new dnsserver ip>
